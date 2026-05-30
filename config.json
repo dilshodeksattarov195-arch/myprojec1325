@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productserify",
+        "uuid": 9940150,
+        "checksum": "ry28ql"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
